@@ -2,4 +2,8 @@ sou o test 2
 
 edição no test 2
 
+<<<<<<< HEAD
 editado localmente
+=======
+editado remotamente
+>>>>>>> 638f8837a7da271225d27ec67d2be494a05f8701
