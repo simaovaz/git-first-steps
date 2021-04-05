@@ -4,3 +4,5 @@ edição no test 2
 
 editado localmente
 
+uma linha qualquer
+
