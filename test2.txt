@@ -8,3 +8,5 @@ uma linha qualquer
 
 outra linha qualquer
 
+adicionada linha a partir da branch hotfix
+
